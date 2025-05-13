@@ -7,3 +7,4 @@ path = path.lower()
 path = "/mnt/" + path
 print(path)
 pyperclip.copy(path)
+input("Press any key to exit")
